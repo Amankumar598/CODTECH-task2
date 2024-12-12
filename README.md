@@ -1,48 +1,56 @@
-##To-Do Web Application
+#### Name: Aman kumar
+#### Company: CODTECH IT SOLUTIONS
+#### ID: CT6WDS2327
+#### Domain: Web developer
+#### Duration: Nov to Dec 2024
 
-A simple and user-friendly To-Do Web Application that helps you organize tasks efficiently and boost productivity. This project is built with [relevant technologies/languages], providing a seamless interface for task management.
+# Overview of the Project
 
+## To-Do Web Application
 
-##Features
-
-Add Tasks: Easily create new tasks with a title and optional details.
-
-Edit Tasks: Update task information directly.
-
-Mark as Complete: Track progress by marking tasks as complete.
-
-Delete Tasks: Remove unnecessary tasks.
-
-Persistent Storage: Tasks are saved for future sessions.
-
-Responsive Design: Optimized for both desktop and mobile devices.
+- A simple and user-friendly To-Do Web Application that helps you organize tasks efficiently and boost productivity. This project is built with [relevant technologies/languages], providing a seamless interface for task management.
 
 
-##Technologies Used
+## Features
 
-Frontend: HTML, CSS, JavaScript
+- Add Tasks: Easily create new tasks with a title and optional details.
+
+- Edit Tasks: Update task information directly.
+
+- Mark as Complete: Track progress by marking tasks as complete.
+
+- Delete Tasks: Remove unnecessary tasks.
+
+- Persistent Storage: Tasks are saved for future sessions.
+
+- Responsive Design: Optimized for both desktop and mobile devices.
 
 
+## Technologies Used
 
-##Usage
-
-Open the application in your browser.
-
-Use the input field to add new tasks.
-
-Click on a task to edit or mark it as complete.
-
-Delete tasks as needed to keep your list organized.
+- Frontend: HTML, CSS, JavaScript
 
 
 
-##Contact
+## Usage
+
+- Open the application in your browser.
+
+- Use the input field to add new tasks.
+
+- Click on a task to edit or mark it as complete.
+
+- Delete tasks as needed to keep your list organized.
+
+
+
+## Contact
 
 If you have any questions or suggestions, feel free to reach out:
 
-Author: Aman Kumar
+- Author: Aman Kumar
 
-GitHub: Amankumar598
+- GitHub: Amankumar598
 
-Email: aman730x@gmail.com
+- Email: aman730x@gmail.com
 
